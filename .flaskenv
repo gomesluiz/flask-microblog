@@ -1,2 +1,2 @@
-FLASK_END=development
 FLASK_APP=microblog.py
+FLASK_DEBUG=True
